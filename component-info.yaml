@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: go-microservice
+  description: golang microservice testing
+  annotations: 
+    github.com/project-slug: diliprenkila/go-microservice
+    backstage.io/github-actions-id: diliprenkila/go-microservice
+spec:
+  type: service
+  lifecycle: experimental
+  owner: diliprenkila
