@@ -6,6 +6,8 @@ metadata:
   annotations: 
     github.com/project-slug: diliprenkila/go-microservice
     backstage.io/github-actions-id: diliprenkila/go-microservice
+  tags:
+    - go
 spec:
   type: service
   lifecycle: experimental
